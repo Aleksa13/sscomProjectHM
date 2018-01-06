@@ -2,7 +2,7 @@ package ss.com;
 
 import org.testng.annotations.DataProvider;
 
-public class TestDataProvider {
+public class  TestDataProvider {
 
     @DataProvider(name = "categoryTest")
     public Object[][] createData() {
